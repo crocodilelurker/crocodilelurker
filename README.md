@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crocodilelurker&label=Profile%20views&color=0e75b6&style=flat" alt="crocodilelurker" /> </p>
 
-- 🔭 I’m currently working on [FlowGrid](https://github.com/crocodilelurker/flowgrid-live)
+- 🔭 I’m currently working on [FlowGrid](https://github.com/crocodilelurker/flowgrid-live) and [Klash](https://github.com/crocodilelurker/klash-live)
 
 - 💬 Ask me about **FastAPI, ReactJS, Electronics**
 
