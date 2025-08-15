@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FlowGrid](https://github.com/crocodilelurker/flowgrid-live) and [Klash](https://github.com/crocodilelurker/klash-live)
 
-- 💬 Ask me about **FastAPI, ReactJS, Electronics**
+- 💬 Ask me about **FastAPI, Electronics**
 
 - 📫 How to reach me **swagatsahu556@gmail.com**
 
