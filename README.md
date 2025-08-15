@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **swagatsahu556@gmail.com**
 
-- 📄 Know about my experiences [Res](https://drive.google.com/file/d/1CwWygqTSjnSHVm8WGhSgSUADo-bFbrrj/view?usp=sharing}
+- 📄 Know about my experiences (https://drive.google.com/file/d/1CwWygqTSjnSHVm8WGhSgSUADo-bFbrrj/view?usp=sharing}
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
